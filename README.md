@@ -5,4 +5,8 @@
 
 npm install -g npm
 
-npm i express
+git init
+
+npm install express --save
+
+npm install nodemon --save-dev
